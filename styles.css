@@ -607,13 +607,14 @@ body {
 /* === Enquiry Page Styles === */
 
 /* Hero Section */
-.enquiry-hero {
-  background: url('images/background image.jpg') center/cover no-repeat;
-  min-height: 400px; /* or whatever height you want */
+.hero {
+  background: url('Images/background image.jpg') center/cover no-repeat;
+  min-height:300px; /* or whatever height you want */
   display: flex;
   align-items: center;
+  justify-content: center;
 }
-.enquiry-hero h1 {
+.hero h1 {
    content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
