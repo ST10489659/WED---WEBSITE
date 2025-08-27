@@ -124,6 +124,7 @@ if (enquiryForm) {
     if (name === "") {
       document.getElementById("nameError").innerText = "Please enter your name.";
       isValid = false;
+      <span class="error" id="nameError"></span>
     }
     const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,}$/;
     if (email === "") {
@@ -132,14 +133,17 @@ if (enquiryForm) {
     } else if (!email.match(emailPattern)) {
       document.getElementById("emailError").innerText = "Please enter a valid email.";
       isValid = false;
+      <span class="error" id="emailError"></span>
     }
     if (subject === "") {
       document.getElementById("subjectError").innerText = "Please enter a subject.";
       isValid = false;
+      <span class="error" id="subjectError"></span>
     }
     if (message === "") {
       document.getElementById("messageError").innerText = "Please enter a message.";
       isValid = false;
+      <span class="error" id="messageError"></span>
     }
     if (isValid) {
       alert("✅ Thank you for your enquiry! We will get back to you soon.");
@@ -164,6 +168,7 @@ if (contactForm) {
     if (name === "") {
       document.getElementById("nameError").innerText = "Please enter your name.";
       isValid = false;
+      <span class="error" id="nameError"></span>
     }
     const emailPattern = /^[^ ]+@[^ ]+\.[a-z]{2,}$/;
     if (email === "") {
@@ -172,14 +177,17 @@ if (contactForm) {
     } else if (!email.match(emailPattern)) {
       document.getElementById("emailError").innerText = "Please enter a valid email.";
       isValid = false;
+      <span class="error" id="emailError"></span>
     }
     if (subject === "") {
       document.getElementById("subjectError").innerText = "Please enter a subject.";
       isValid = false;
+      <span class="error" id="subjectError"></span>
     }
     if (message === "") {
       document.getElementById("messageError").innerText = "Please enter your message.";
       isValid = false;
+      <span class="error" id="messageError"></span>
     }
     if (isValid) {
       alert("📩 Thank you for contacting us! We will respond shortly.");

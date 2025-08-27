@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <titl>The Haven Night Shelter | Home</title>
+    <title>The Haven Night Shelter | Home</title>
     <link rel="stylesheet" href="styles.css">
     <script src="script.js" defer></script>
 </head>
@@ -39,15 +39,18 @@
   <section class="impact-tracker">
     <div class="stats">
       <div class="stat">
-        <h2>3,482</h2>
+        <h2 class="counter" data-target="3482">0</h2>
         <p>Beds Sponsored</p>
       </div>
       <div class="stat">
-        <h2>5,729</h2>
+        <h2 class="counter" data-target="5729">0</h2>
         <p>Meals Provided</p>
       </div>
     </div>
   </section>
+
+  <!-- Add this before </body> in all HTML files -->
+<script src="script.js" defer></script>
 
   <!-- About Us & Shelters -->
   <section class="about-shelters">
