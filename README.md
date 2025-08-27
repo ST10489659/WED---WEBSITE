@@ -1,5 +1,8 @@
 Web Development POE - ST10489659 / Yan Ritha Umumararungu Uwamariya 
 
+Website Description – The Haven Night Shelter
+The Haven Night Shelter website is a contemporary, flexible platform that aims to help and empower homeless people in Cape Town and the surrounding areas. It gives visitors clear information about the organization's goal, services, and shelter sites. The website accepts online donations, including recurring "Buy-a-Bed" sponsorships, and has a volunteer gateway for community interaction. The site engages visitors by demonstrating the organization's transparency and social effect through an interactive shelter map, impact dashboard, and story-driven content. Its user-friendly design, straightforward navigation, and multimedia integration make it simple for visitors to learn, contribute, and engage with The Haven's goal.
+
 Document: 
 https://advtechonline-my.sharepoint.com/:w:/g/personal/st10489659_vcconnect_edu_za/EaE0X3OZVVpPoj1nzRgrcCIBYO91QV2H0grgMvRdFxzLVg?e=jRBUgt
 
