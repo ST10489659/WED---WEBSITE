@@ -32,3 +32,9 @@ Reference:
 2.	The Haven Night Shelter Annual Report 2023
 3.	City of Cape Town News Release – Shelter Expansion
 4. Boardmix, 2025. Untitled [online]. Available at: https://boardmix.com/app/share/CAE.CKTaoAEgASoQvhdsUwfyYzqNCTWfAkLPVzAGQAE/k9Rvtl [Accessed 26 August 2025].
+5. OpenAI. (2025) ChatGPT [Large language model]. Available at: https://chat.openai.com/
+ (Accessed: 27 August 2025).
+
+AI Usage Declaration:
+
+AI technologies were employed to help with content organization, idea generation, and word drafting when creating the website proposal and description for The Haven Night Shelter. All of the material offered is original and designed exclusively to this project. No material was simply duplicated from AI outputs; rather, the AI acted as a guide and support in efficiently organizing and articulating the information.
