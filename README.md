@@ -1,5 +1,7 @@
 Web Development POE - ST10489659 / Yan Ritha Umumararungu Uwamariya 
-WEBSITE: Document: https://advtechonline-my.sharepoint.com/:w:/g/personal/st10489659_vcconnect_edu_za/EaE0X3OZVVpPoj1nzRgrcCIBYO91QV2H0grgMvRdFxzLVg?e=jRBUgt
+
+Document: 
+https://advtechonline-my.sharepoint.com/:w:/g/personal/st10489659_vcconnect_edu_za/EaE0X3OZVVpPoj1nzRgrcCIBYO91QV2H0grgMvRdFxzLVg?e=jRBUgt
 
 Sitemap - “Empowering the Nation” Website Sitemap 
 ![alt text](image.png)
@@ -15,4 +17,8 @@ Enquiry (enquiry.html) Volunteer Application Form Sponsorship / Donation Enquiry
 
 Contact (contact.html) Contact Information (multiple locations with addresses & phone numbers) Embedded Google Map (showing multiple shelter locations) Contact Form
 
-Reference: Boardmix, 2025. Untitled [online]. Available at: https://boardmix.com/app/share/CAE.CKTaoAEgASoQvhdsUwfyYzqNCTWfAkLPVzAGQAE/k9Rvtl [Accessed 26 August 2025].
+Reference: 
+1.	The Haven Night Shelter – Official Website
+2.	The Haven Night Shelter Annual Report 2023
+3.	City of Cape Town News Release – Shelter Expansion
+4. Boardmix, 2025. Untitled [online]. Available at: https://boardmix.com/app/share/CAE.CKTaoAEgASoQvhdsUwfyYzqNCTWfAkLPVzAGQAE/k9Rvtl [Accessed 26 August 2025].
