@@ -608,16 +608,21 @@ body {
 
 /* Hero Section */
 .enquiry-hero {
-  background: url('../images/enquiry-hero.jpg') center/cover no-repeat;
-  color: white;
-  text-align: center;
-  padding: 80px 20px;
+  background: url('images/background image.jpg') center/cover no-repeat;
+  min-height: 400px; /* or whatever height you want */
+  display: flex;
+  align-items: center;
 }
 .enquiry-hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 10px;
+   content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4); /* adjust opacity as needed */
+  z-index: 1;
 }
 .enquiry-hero p {
+  position: relative;
+  z-index: 2;
   font-size: 1.2rem;
   opacity: 0.9;
 }
